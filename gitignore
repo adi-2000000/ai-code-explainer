@@ -1,0 +1,17 @@
+# Ignore application properties (API keys)
+src/main/resources/application.properties
+
+# Maven build folder
+target/
+
+# IDE files
+.idea/
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
